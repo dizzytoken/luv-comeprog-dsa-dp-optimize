@@ -1,0 +1,18 @@
+/*
+segmentation fault occurs when we try to access a memory which has not been allocated
+
+a[3][4] --> make collection of 3 for a, of which make a collection of 4
+
+
+limit for local array--> stored in stack where mem rest is there
+
+ declared size = of the order of 10^5 , and for global = 10^7,
+
+ it is stored in a data segment which does not have as such memory restriction
+
+*/
+
+
+
+
+

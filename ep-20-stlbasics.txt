@@ -1,0 +1,30 @@
+/*
+
+STL - Standard Template Library
+
+Containers -> Data Structures pre implemented 
+			Sequential : vectors, stacks , queue, pair (c ++ class )
+			Ordered : Maps, Multimap, Set, Multiset
+			Unordered : Unordered Map, Unordered Set
+
+			Nested Containers
+Iterators -> point to memory address of containers
+			begin(), end()
+			vector<int>:: iterator it
+			continuity for container
+Algorithms
+		upperbound
+		lowerbound
+		sort(comparator)
+		max_element
+		min_element
+		accumulate
+		reverse
+		count
+		find
+		next_permutations
+		prev_permutations
+Functors
+		classes which can act as functions
+
+*/
